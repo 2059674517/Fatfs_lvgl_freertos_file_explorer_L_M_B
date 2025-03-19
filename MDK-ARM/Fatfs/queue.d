@@ -1,0 +1,15 @@
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+fatfs\queue.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+fatfs\queue.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\string.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fatfs\queue.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\queue.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\queue.o: ../Inc/FreeRTOSConfig.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+fatfs\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

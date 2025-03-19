@@ -1,0 +1,17 @@
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.c
+fatfs\lv_bidi.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fatfs\lv_bidi.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fatfs\lv_bidi.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_bidi.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_txt.h
+fatfs\lv_bidi.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_area.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\../font/lv_font.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\../font/lv_symbol_def.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_printf.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\lv_types.h
+fatfs\lv_bidi.o: ..\lvgl\src\misc\../misc/lv_mem.h
+fatfs\lv_bidi.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\string.h

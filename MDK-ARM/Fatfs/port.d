@@ -1,0 +1,12 @@
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fatfs\port.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\port.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\port.o: ../Inc/FreeRTOSConfig.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+fatfs\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

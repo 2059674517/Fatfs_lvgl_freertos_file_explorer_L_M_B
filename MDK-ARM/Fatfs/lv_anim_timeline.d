@@ -1,0 +1,14 @@
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim_timeline.c
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim_timeline.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_anim.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fatfs\lv_anim_timeline.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fatfs\lv_anim_timeline.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_anim_timeline.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+fatfs\lv_anim_timeline.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_mem.h
+fatfs\lv_anim_timeline.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\string.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_types.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_assert.h
+fatfs\lv_anim_timeline.o: ..\lvgl\src\misc\lv_log.h

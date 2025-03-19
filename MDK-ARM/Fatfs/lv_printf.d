@@ -1,0 +1,10 @@
+fatfs\lv_printf.o: ..\lvgl\src\misc\lv_printf.c
+fatfs\lv_printf.o: ..\lvgl\src\misc\lv_printf.h
+fatfs\lv_printf.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fatfs\lv_printf.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_printf.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fatfs\lv_printf.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_printf.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+fatfs\lv_printf.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_printf.o: ..\lvgl\src\misc\lv_types.h
+fatfs\lv_printf.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdbool.h

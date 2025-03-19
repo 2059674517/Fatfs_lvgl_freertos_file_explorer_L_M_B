@@ -1,0 +1,13 @@
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_color.c
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_color.h
+fatfs\lv_color.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fatfs\lv_color.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_color.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fatfs\lv_color.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_assert.h
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_log.h
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_types.h
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_mem.h
+fatfs\lv_color.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_color.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\string.h
+fatfs\lv_color.o: ..\lvgl\src\misc\lv_math.h

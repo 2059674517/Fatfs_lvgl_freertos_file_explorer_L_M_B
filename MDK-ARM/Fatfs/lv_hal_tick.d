@@ -1,0 +1,15 @@
+fatfs\lv_hal_tick.o: ..\lvgl\src\hal\lv_hal_tick.c
+fatfs\lv_hal_tick.o: ..\lvgl\src\hal\lv_hal_tick.h
+fatfs\lv_hal_tick.o: ..\lvgl\src\hal\../lv_conf_internal.h
+fatfs\lv_hal_tick.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_hal_tick.o: ..\lvgl\src\hal\../lv_conf_kconfig.h
+fatfs\lv_hal_tick.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_hal_tick.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+fatfs\lv_hal_tick.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fatfs\lv_hal_tick.o: ../Inc/FreeRTOSConfig.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fatfs\lv_hal_tick.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h

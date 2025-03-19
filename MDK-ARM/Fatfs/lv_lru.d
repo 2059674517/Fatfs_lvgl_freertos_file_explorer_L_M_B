@@ -1,0 +1,13 @@
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_lru.c
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_lru.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fatfs\lv_lru.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fatfs\lv_lru.o: ../lvgl/examples/porting/../../lv_conf.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_types.h
+fatfs\lv_lru.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_math.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_mem.h
+fatfs\lv_lru.o: D:\install\MDK\ARM\ARMCC\Bin\..\include\string.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_assert.h
+fatfs\lv_lru.o: ..\lvgl\src\misc\lv_log.h
